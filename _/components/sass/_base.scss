@@ -1,0 +1,15 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	line-height: 2rem;
+	font-family: $primary-font;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+	font-family: $heading-font;
+}
